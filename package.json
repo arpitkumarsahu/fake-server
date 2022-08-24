@@ -1,0 +1,23 @@
+{
+  "name": "fake-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arpitkumarsahu/fake-server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arpitkumarsahu/fake-server/issues"
+  },
+  "homepage": "https://github.com/arpitkumarsahu/fake-server#readme",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
